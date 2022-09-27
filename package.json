@@ -1,0 +1,23 @@
+{
+  "name": "typescript-basis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAnas14/TypeScript-basis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadAnas14/TypeScript-basis/issues"
+  },
+  "homepage": "https://github.com/MuhammadAnas14/TypeScript-basis#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
